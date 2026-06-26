@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhedis-coder.github.io/nowkering-com-cn/sitemap.xml
